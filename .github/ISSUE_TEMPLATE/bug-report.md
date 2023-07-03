@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+Description: 
 
 **Screenshots (If required )**
-If applicable, add screenshots to help explain your problem.
+
 
 **Application Version**
-ex: 1.0.0
+version:
