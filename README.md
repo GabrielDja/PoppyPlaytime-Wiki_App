@@ -7,11 +7,11 @@
 Poppy Playtime - Wiki is an application for the Poppy Playtime Game from MOB Entertainment. You'll find all the information you need about the game on this Application!
 
 Available Information:
-- Boss
-- Monsters **(Coming)**
-- Toys **(Coming)**
-- Posters **(Coming)**
-- Player **(Coming)**
+- [x] Boss
+- [ ] Monsters **(Coming)**
+- [ ] Toys **(Coming)**
+- [ ] Posters **(Coming)**
+- [x] Player
 
 **Available in English and French.**
 
