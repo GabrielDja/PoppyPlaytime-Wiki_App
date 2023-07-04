@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Suggest an Idea**
-suggest an idea for this application? (Replace this text with your own)
+- suggest an idea for this application? (Replace this line of text with your own)
 
 **Suggest a Feature**
-what feature would you like to see in this application? (Replace this text with your own)
+- what feature would you like to see in this application? (Replace this line of text with your own)
