@@ -17,5 +17,7 @@ Available Information:
 
 ### Please do not download our applications from other websites (as you may install viruses). We will not be held responsible.
 ---
+### Roadmap: https://trello.com/b/dY6ssbjm
+---
 **Game by MOB Entertainment**  
 **App by DJAMinimation Studio**
