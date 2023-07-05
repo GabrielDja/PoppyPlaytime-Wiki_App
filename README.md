@@ -1,5 +1,5 @@
 # Poppy Playtime - Wiki  
-![Static Badge](https://img.shields.io/badge/Status-ALPHA-177c66?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Status-ALPHA-7e49b8?style=flat-square)
 ![GitHub all releases](https://img.shields.io/github/downloads/GabrielDja/PoppyPlaytime-Wiki_App/total?style=flat-square&label=Downloads&color=177c66)
 
 ### Available on July 8
