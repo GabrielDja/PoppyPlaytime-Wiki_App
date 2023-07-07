@@ -1,6 +1,6 @@
 # Poppy Playtime - Wiki  
 ![Static Badge](https://img.shields.io/badge/Status-ALPHA-7e49b8?style=flat-square)
-![GitHub all releases](https://img.shields.io/github/downloads/GabrielDja/PoppyPlaytime-Wiki_App/total?style=flat-square&label=Downloads&color=177c66)
+![GitHub release (latest by SemVer including pre-releases)](https://img.shields.io/github/downloads-pre/GabrielDja/PoppyPlaytime-Wiki_App/latest/total?style=flat-square&label=Latest%20Version&color=177c66)
 
 ### Available on July 8
 ## About
@@ -8,10 +8,10 @@ Poppy Playtime - Wiki is an application for the Poppy Playtime Game from MOB Ent
 
 Available Information:
 - [x] Boss
-- [ ] Monsters **(Coming)**
-- [ ] Others **(Coming)**
-- [ ] Posters **(Coming)**
 - [x] Player
+- [ ] Monsters **(Coming)**
+- [ ] Posters **(Coming)**
+- [ ] Others **(Coming)**
 
 **Available in English and French.**
 
