@@ -1,6 +1,6 @@
 # Poppy Playtime - Wiki  
 ![Static Badge](https://img.shields.io/badge/Status-ALPHA-7e49b8?style=flat-square)
-![GitHub tag (with filter)](https://img.shields.io/github/v/tag/GabrielDja/PoppyPlaytime-Wiki_App?filter=!latest&style=flat-square&label=Latest%20Version&color=177c66)
+![GitHub tag (with filter)](https://img.shields.io/github/v/tag/GabrielDja/PoppyPlaytime-Wiki_App?style=flat-square&label=Latest%20Version&color=177c66)
 ![GitHub all releases](https://img.shields.io/github/downloads/GabrielDja/PoppyPlaytime-Wiki_App/total?style=flat-square&label=Downloads)
 
 ### Now Available
