@@ -10,7 +10,7 @@ Poppy Playtime - Wiki is an application for the Poppy Playtime Game from MOB Ent
 Available Information:
 - [x] Boss
 - [x] Player
-- [ ] Monsters **(Coming)**
+- [x] Monsters **(New)**
 - [ ] Posters **(Coming)**
 - [ ] Others **(Coming)**
 
