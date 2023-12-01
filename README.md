@@ -11,12 +11,13 @@ Available Information:
 - [x] Boss
 - [x] Player
 - [x] Monsters **(New)**
-- [ ] Posters **(Coming)**
-- [ ] Others **(Coming)**
+- [ ] Posters **(Idea)**
+- [ ] Others **(Idea)**
 
 **Available in English and French.**
 
-### Please do not download our applications from other websites (as you may install viruses). We will not be held responsible.
+#### 🛡️Please do not download our applications through other websites. (this is a risk for your device) We will not be responsible.
+
 ---
 ### Roadmap: https://trello.com/b/dY6ssbjm
 ---
