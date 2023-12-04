@@ -7,6 +7,9 @@
 ## About
 Poppy Playtime - Wiki is an application for the Poppy Playtime Game from MOB Entertainment. You'll find all the information you need about the game on this Application!
 
+![PEGI 12](https://static.wixstatic.com/media/31958c_6fcb1d6d35ce4ecfb6cc560cca1ad2f1~mv2.png/v1/fill/w_33,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PEGI-12_Icon.png)  
+**PEGI 12:** The application may contain violent and realistic images from the Official Game.
+
 Available Information:
 - [x] Boss
 - [x] Player
