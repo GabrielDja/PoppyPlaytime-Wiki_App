@@ -1,5 +1,7 @@
 name: 🐛Bug Report
-description: Create a bug report about GDevelop or the game engine
+description: Submit bug report
+title: "[Bug]: "
+labels: ["bug"]
 body:
   - type: textarea
     id: description
