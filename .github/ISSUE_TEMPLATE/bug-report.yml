@@ -1,0 +1,24 @@
+name: 🐛Bug Report
+description: Create a bug report about GDevelop or the game engine
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: bug
+    validations:
+      required: true
+  - type: dropdown
+    id: app_version
+    attributes:
+      label: Application Version
+      description: version
+      multiple: false
+      options:
+        - v1.0.0a1
+        - v1.0.0a2
+        - v1.0.0a3
+        - v1.0.0a4
+        - v1.0.0a5
+    validations:
+      required: true
