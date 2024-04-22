@@ -24,5 +24,6 @@ body:
         - v1.0.0a5
         - v1.0.0b1
         - v1.0.0b2
+        - v1.0.0b3
     validations:
       required: true
