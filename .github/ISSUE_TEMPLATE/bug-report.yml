@@ -14,16 +14,16 @@ body:
     id: app_version
     attributes:
       label: Application Version
-      description: version
+      description: In which version of the application do you encounter this problem?
       multiple: false
       options:
-        - v1.0.0a1
-        - v1.0.0a2
-        - v1.0.0a3
-        - v1.0.0a4
-        - v1.0.0a5
-        - v1.0.0b1
-        - v1.0.0b2
         - v1.0.0b3
+        - v1.0.0b2
+        - v1.0.0b1
+        - v1.0.0a5
+        - v1.0.0a4
+        - v1.0.0a3
+        - v1.0.0a2
+        - v1.0.0a1
     validations:
       required: true
