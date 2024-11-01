@@ -17,6 +17,7 @@ body:
       multiple: false
       default: 0
       options:
+        - v1.0.0b4
         - v1.0.0b3
         - v1.0.0b2
         - v1.0.0b1
