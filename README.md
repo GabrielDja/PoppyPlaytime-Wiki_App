@@ -23,5 +23,9 @@ Available Information:
 ---
 ### Roadmap: https://trello.com/b/dY6ssbjm
 ---
+### CREDITS
 **Game by MOB Entertainment**  
 **App by DJAMinimation Studio**
+
+- This application is a fan project and is not affiliated, endorsed or approved by Mob Entertainment.
+- All images used in this application, including posters and 2D character illustrations, are the property of Mob Entertainment, creators of Poppy Playtime. All rights reserved.
