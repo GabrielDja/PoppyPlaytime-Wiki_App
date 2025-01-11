@@ -10,7 +10,7 @@ Poppy Playtime - Wiki is a wiki application for MOB Entertainment's Poppy Playti
 
 <img src="https://static.wixstatic.com/media/31958c_b20b01db4d054ea0bc405e5cd354ea95~mv2.png" width="300" height="auto">
 
-### Available Information
+### Available information
 - [x] Boss
 - [x] Player
 - [x] Monsters
@@ -21,14 +21,13 @@ Poppy Playtime - Wiki is a wiki application for MOB Entertainment's Poppy Playti
 - English
 - Français
 
-**🛡️Please do not download our applications through other websites. (this is a risk for your device) We will not be responsible.**
+**🛡️ Please do not download our applications through other websites. (this is a risk for your device) We will not be responsible.**
 
----
-### Roadmap: https://trello.com/b/dY6ssbjm
----
+### [📋Roadmap](https://trello.com/b/dY6ssbjm)
+
 ## CREDITS
 **Game by MOB Entertainment**  
 **App by DJAMinimation Studio**
 
-- This application is a fan project and is not affiliated, endorsed or approved by Mob Entertainment.
+- This application is a fan project and is not affiliated or approved by Mob Entertainment.
 - All images used in this application, including posters and 2D character illustrations, are the property of Mob Entertainment, creators of Poppy Playtime. All rights reserved.
